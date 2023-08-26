@@ -202,7 +202,7 @@ void add(int no_people, int pos) {
 };
 
 int main() {
-    cout << "---------------------- Lift Management System ------------------------\n";
+    cout << "----------------------## Floor Navigation System ##------------------------\n";
     
     int h, pos;
     cout << "Enter the height of the building and position of the lift: ";
